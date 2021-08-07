@@ -1,0 +1,12 @@
+console.log("process.argv", process.argv);
+
+let myArgv = process.argv.slice(0);
+console.log('MyArgv', myArgv);
+const n1 = Number(myArgv[2]);
+const n2 = Number(myArgv[3]);
+if (n2 === 0){
+    console.log("Error no se puede dividir entre 0");
+} else {
+    const resultado = n1/n2;
+    console.log(`El resultado es ${resultado}`);
+}

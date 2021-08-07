@@ -1,0 +1,22 @@
+{
+  "name": "Tarea1-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prueba": "node prueba.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jramos22/Tarea1-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jramos22/Tarea1-nodejs/issues"
+  },
+  "homepage": "https://github.com/jramos22/Tarea1-nodejs#readme"
+}

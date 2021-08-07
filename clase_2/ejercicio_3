@@ -1,0 +1,5 @@
+function promedio(a,b,c){
+    let resultado = ((a + b + c)/3);
+    console.log(resultado);
+}
+promedio(1,4,6);

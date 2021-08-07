@@ -1,0 +1,7 @@
+Nombre, Apellido, Edad
+Jack, Murphy, 35
+Charlie, Rodriguez, 38
+George, Smith, 22
+James, Anderson, 23
+Olver, Brown, 20
+Willian, Walsh. 25

@@ -1,0 +1,11 @@
+function comprobador(a){
+    let n1 = a;
+    if (n1 < 0){
+        console.log("El Numero es negativo");
+    } else if (n1 == 0){
+        console.log("El numero es 0");
+    } else{
+        console.log("El numero es positivo");
+    }
+}
+comprobador(a);
